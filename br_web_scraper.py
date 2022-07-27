@@ -410,7 +410,7 @@ while user == False:
         if ohtani == True:
             ohtani_pitching_standard()
                 
-        #User determines whether to re-run through loop for player data again
+        #User determines whether to re-run through loop for player data
         feedback = input("Would you like to see the statistics of another player?\nType Y or N: ")
         if (feedback.strip() == 'Y') or (feedback.strip() == 'y'):
             print('\n')
