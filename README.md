@@ -2,6 +2,6 @@
 
 Baseball-Reference.com Web Scraper
 
-1) Finds player info/basic career stats from individual page summary
-2) Prints basic career stats to console
-3) Saves .csv file of Standard Batting/Standard Pitching chart depending on player position
+1) Find player info/basic career stats from individual page summary
+2) Print basic career stats to console
+3) Save .csv file of Standard Batting/Standard Pitching chart depending on player position
